@@ -589,3 +589,69 @@ https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8mqdlk254n_KdqSN1fTHoiqevIclLqa-Lew&s" group-title="Indian News",287. Aaj Tak
 https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_404p/chunks.m3u8
+
+#EXTINF:-1
+tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWnMkH9iO1MosKoMIMVQ-m6QN7q7Xj-VfKtA&s" group-title="Information",288. National Geographic
+http://66.102.120.18:8000/play/a01f/index.m3u8
+#EXTINF:-1
+tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZlVKPoZSIEhlGX-o3vcJ6ctBTg5f6swAWIA&s" group-title="Information",289. Nat Geo Wild 
+#EXTINF:-1
+tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSfDr_asm-pFc7gjSLevHeIoalpU-sOs6LdA&s" group-title="Information",290. CGTN Documentary
+https://0472.org/hls/cgtnd.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyBXC5vWn9_-y_iuA_QfDpiGycdat04YlBfWQA1Ckf0mSmVdsK_WXni3w7&s=10" group-title="Information",291. Wild Nature
+https://dg5rg8emlfy55.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-WildNature2/491.m3u8
+#EXTINF:-1 tvg-logo="https://www.wildearth.com.au/assets/wild-earth-logo.png" group-title="Information",292. Wild Earth
+https://wildearth-plex.amagi.tv/masterR1080p.m3u8
+#EXTINF:-1 tvg-logo="https://oxolive.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-4-2025-03_53_45-PM-1-200x300.png" group-title="Information",293. Wild Flix
+https://cc-qgrxgp51645lw.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qgrxgp51645lw/IQJW/WBD/WildFlix_IN/WildFlix_IN.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaVXpW-R9qxLYsqX4lLfm1slnRU1v3GNRge93XEaPgfCZobxYC7avviRE&s" group-title="Information",294. Wild Planet
+https://d1h8whhtg5u7om.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3u3ceovu5thv6/WildPlanet_GB.m3u8
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/logos/channel/logos/ehorot.png" group-title="Information",295. Drone Tv
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/dronetv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNgXKyueqy6tXqsNApqtzPomlzDxSUsy8T7g&s" group-title="Information", 296. Epic Hindi
+https://epiconvh.akamaized.net/live/epic/master.m3u8
+#EXTINF:-1
+tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Discovery_Asia_logo.svg/1200px-Discovery_Asia_logo.svg.png" group-title="Information",297. Discovery Asia HD
+https://cdn08jtedge.indihometv.com/dassdvr/194/discoveryasia/manifest.mpd
+#EXTINF:-1
+tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/2019_Discovery_logo.svg" group-title="Information",298. Discovery
+http://87.255.35.150:18220
+#EXTINF:-1
+tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0GvABuq5ua25YY4Y4R5qzENlf3RpMEiz0bA&s" group-title="Information",299 TLC
+https://allottplay.com/tv/toffee/live.php?id=tlc_hd&e=.m3u8
+#EXTINF:-1
+tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5FcbVxagO9-gqhZ3tlZ2L4IOpd7XF-_UGiQ&s" group-title="Information",300. HGTV
+https://mediapackage-hgtv-source.fullscreen.nz/index.m3u8
+#EXTINF:-1
+tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5eYoacRxuvd_puhnKOK6rTwPJ-BIriTLE3w&s" group-title="Information",301. Food Network
+https://tvsen6.aynaott.com/foodnetwork/index.m3u8
+#EXTINF:-1
+tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/2018_Travel_Channel_logo.svg/1200px-2018_Travel_Channel_logo.svg.png" group-title="Information",302. Travel Channel
+https://tvsen6.aynaott.com/travelxp/index.m3u8
+#EXTINF:-1
+tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ241d0SbBoaf4KBcTTH71GjgWncmYtuyjoxA&s" group-title="Information",303. Travel XP
+https://27c980761ff9437d929e64647afe183a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_TravelXP/playlist.m3u8
+#EXTINF:-1
+tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR3g0cehUXZ2zNEGUkyojIhwDZheQTEea-Pw&s" group-title="Information",304. InTravel
+https://amg00861-amg00861c10-rakuten-uk-3152.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1
+tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS6SZNLWjWcvxNOxQ3Naid6KSoNdfGXbXRsiU-CRxRDptjSOvjflhFLjc&s=10" group-title="Information",305. 4K Travel
+https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8
+#EXTINF:-1
+tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLhy4gbHLwX3Vre0E9IBUHB3oNPWh1GZy4m9DScJ5A-Q&s=10" group-title="Information",306. Persiana Travel
+https://ptravelhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1
+tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/2018_Animal_Planet_logo.svg" group-title="Information",307. Animal Plane 
+https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
+#EXTINF:-1
+tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/BBC_Earth.svg" group-title="Information",308. BBC Earth
+https://d3u3pfhhvuad9k.cloudfront.net/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8
+#EXTINF:-1
+tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7fraDnSPKR72OIovbPXlXMZNK6kUM-cdpTQ&s" group-title="Information",309. Sony BBC Earth
+https://allottplay.com/tv/toffee/live.php?id=sonybbc_earth_hd&e=.m3u8
+#EXTINF:-1
+tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-vBSEQS6lsaFU2CxoqJl4mEn3f8VBl6Do0Mae3c6muBXPYTHAgfrpjng&s=10" group-title="Information",310. History TV 18
+http://119.152.240.15:8000/play/a0bj/index.m3u8
+#EXTINF:-1
+tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Discover_Pakistan_Logo.png/1200px-Discover_Pakistan_Logo.png" group-title="Information",311. Discover Pakistan TV
+https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
