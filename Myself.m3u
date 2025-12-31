@@ -551,3 +551,20 @@ https://247wlive.foxweather.com/stream/index.m3u8
 https://jukin-weatherspy-2-in.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjCq7uGW1_fSKjs7SVLxWOBkK7Q69BGxIXMw&s" group-title="Weather News",269. Weather Nation
 http://filex.me:8080/live/MAS101A/MAS101AABB/291101.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvTcIOE_1ePtYwYygSQudUVYrJDTJa7jM9vA&s" group-title="Pakistani News",270. Geo News
+http://filex.me:8080/live/MAS101A/MAS101AABB/52041.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6IlhVPm4VrUTfSVYCVsTHmYJFRrvUb79bqw&s" group-title="Pakistani News",271. Ary News
+http://filex.me:8080/live/MAS101A/MAS101AABB/52043.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST1yNho6fe9iLTZRR9dEHnIPATG6XMTM2vbA&s" group-title="Pakistani News",272. PTV News
+http://filex.me:8080/live/MAS101A/MAS101AABB/52073.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0GZK25efr6mRNplo4gdw0PG77qFOvRMZDjA&s" group-title="Pakistani News",273. Bol News
+http://filex.me:8080/live/MAS101A/MAS101AABB/52037.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYLIPUfUe6elLNq3yC7PHmuargSssQUJV5tA&s" group-title="Pakistani News",274. HUM News
+http://filex.me:8080/live/MAS101A/MAS101AABB/246980.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY66y5q0VrZUnWlIpHCQzjub2vTJTv7hCcwg&s" group-title="Pakistani News",275. Dunya News
+http://filex.me:8080/live/MAS101A/MAS101AABB/246973.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdiRK43Mhme2VtJHypey4v4GAkD1sgep1fuA&s" group-title="Pakistani News",276. 92 News
+http://filex.me:8080/live/MAS101A/MAS101AABB/52035.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCHwN3BHIxT2GaylINutmjk1nNKjy69T3lhA&s" group-title="Pakistani News",277. Samaa NEWS
+http://filex.me:8080/live/MAS101A/MAS101AABB/52045.ts
