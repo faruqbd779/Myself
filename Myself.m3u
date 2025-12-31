@@ -81,7 +81,7 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1 tvg-logo="" group-title="Bangladeshi",40. Channel S UK
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/chsukoff.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Indian Bangla",41. DD Bangla
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f6/Dd_Bangla.PNG" group-title="Indian Bangla",41. DD Bangla
 https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/2e9e32a4-c4f7-49c3-96d6-c4e3660c7e3f/2.m3u8
 #EXTINF:-1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/1693477944-85084283.webp?v=8.5.9" group-title="Indian Bangla",42. Star Jalsha
 http://filex.me:8080/live/MAS101A/MAS101AABB/522665.ts
@@ -121,3 +121,150 @@ http://filex.me:8080/live/MAS101A/MAS101AABB/533185.ts
 https://live20.bozztv.com/giatvplayout7/giatv-210733/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/ce/G-Series_Logo.png" group-title="Bangladeshi",60. G-Series
 https://vods2.aynascope.net/gseriesDrama/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgP17C92aUgfU0W7ELgWfTS1tQKQZ1QB-yDw&s" group-title="Islamic",61. Madani Tv Bangla
+https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/79/Ba-logo.png/revision/latest?cb=20220419153100" group-title="Islamic",62. Peace TV Bangla
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/peacetvban.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5DkKT2j8yBkiUOM3ln7PmYnEN0KE6e3k6TlpXMgFJilJXXgbb3FSlMyAW&s=10" group-title="Islamic",63. ISLAM BANGLA
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/islamchbangla.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScjEIUL-bGCWG9yQzyYX0vYbGTplIu-n8tyIf-NKbLROP7zSLGqzF61-w&s=10" group-title="Islamic",64. Mizanur Rahman Azhari
+https://cloudfrontnet.vercel.app/tplay/playout/209617/master.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmCvenZQFjpi-1EKjVHVSsUa2DV5ha9rBndD_T5-eO7z8FyMfKhuRNXgm-&s=10" group-title="Islamic",65. Eman Channel
+https://tvsen6.aynaott.com/eman/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrIJAtiLy1wnytCCMl2fpL6P7y6MV-Fs1gGcxPdqhlLw&s" group-title="Islamic",66. Peace TV
+https://tvsen5.aynaott.com/peacetv/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQenGwyAhGMadGZ-I-RJYVx0AvDOv2ngCFPq11TYTk_5cwrriZekaKT-uY&s=10" group-title="Islamic",67. Peace TV Urdu
+https://tvsen6.aynaott.com/PeaceTVUrduHD/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB6_Ac9BF8XU_jANBb3TOb0mJ-BqJTdfQ6K5QMy_95TFDYHdTeRawqYlE&s=10" group-title="Islamic",68. TAQBEER
+https://tvsen7.aynaott.com/takbeer/index.m3u8
+#EXTINF:-1 tvg-logo="https://medianet.mv/media/channel/256x0-icon.png" group-title="Islamic",69. Saudi Quran TV 
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/makkah.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwEtWaNikuQA1IWK3Oy9nYIuwE9TQh_jAGHdxQQzyrpA&s" group-title="Islamic",70. Makkah Tv
+https://media2.streambrothers.com:1936/8122/8122/chunklist_w1247854077.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a7/Saudi_Sunnah_TV_2020.png/revision/latest/scale-to-width-down/250?cb=20241025151812" group-title="Islamic",71. Saudi Sunnah Tv
+http://m.live.net.sa:1935/live/sunnah/chunklist.m3u8?v=1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm8vHYqGitJkD37ZCvQyBcEUEkA30RkHvp9w&s" group-title="Islamic",72 TV One
+https://app.ncare.live/live-orgin/tvoneuksni.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkmxQsLQOt1W7ReloRs8emzyojrH2Oqw1HtyuJiui-EItvRcABq89OT6k&s=10" group-title="Islamic",73. Iqra Bangla
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/iqrabanglatvoffice.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReRjAxq8--hgCxUZSgB8wyzhF_1MeOzGessSwaL26E3oOmXnboLzsx36gN&s=10" group-title="Islamic",74. Azan TV
+https://dbcanada.sonarbanglatv.com/azantv/atv/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDy1kic6oSwoVCSVwhWwcp3CZxtGfR29tjMQ&s" group-title="Islamic",75. Deen Tv
+https://cd198.anystream.uk:8082/hls/d33ntv/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToNzQsuWjlojNoeVVhG58BaFXLfcbljUisEQ&s" group-title="Islamic",76. Ary QTV
+http://filex.me:8080/live/MAS101A/MAS101AABB/247150.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_IUS9uG78yTE41XP2-1F9CFwIUuVu-DGcoQ&s" group-title="Islamic",77. IBN TV
+http://138.68.138.119:8080/live/5a8993709ea19/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB4A02-ghfBVx3fQLfIrwLd8FsrWK0Y9zLNcL4WCJH03wnNFTTXSUyRN2D&s=10" group-title="Bangladeshi",78. Jago News 24
+https://app.ncare.live/live-orgin/jagonews24.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/f/f9/NTV_UK.png/revision/latest?cb=20230423115748" group-title="Bangladeshi",79. NTV UK
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ntvuk00332211.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf65Z-NB7hacc-dqCoBcvc9V2HjX0Am7EnA--4TtQY9esacTIC_anTSwM&s=10" group-title="Bangladeshi",80. ATN Bangla UK
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbanglauk-off.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPTEGf69BSw7L9artVP5r-01mkqL9Eo6wS7yW-Js_6CRZQ-MTLRBgP9MSW&s=10"
+group-title="Bangladeshi",81. SRK TV
+https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f3/StarPlus_HD_2011.png/revision/latest/scale-to-width-down/250?cb=20240318193605" group-title="Indian",83. Star Plus HD
+http://filex.me:8080/live/MAS101A/MAS101AABB/17.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/55/Star_Gold_2020.svg" group-title="Indian",84. Star Gold 
+http://filex.me:8080/live/MAS101A/MAS101AABB/29.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS2y9C7X7AOqL3kD78oB20eT54jlFTqH4ZnSITDFnT_w&s" group-title="Indian",85. STAR GOLD 2
+http://filex.me:8080/live/MAS101A/MAS101AABB/275050.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtjuvvjsLuU3a0OfGPJGkEm_1v4jlbfAuxTUIjJFPEtw&s=10" group-title="Indian",86. Star Gold Romance
+http://filex.me:8080/live/MAS101A/MAS101AABB/189474.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzsB0VDmhijXr_VxGF9MvI4wvlFEOcamZ5zh5_w4ZI5Q&s=10" group-title="Indian",87. STAR GOLD SELECT
+http://filex.me:8080/live/MAS101A/MAS101AABB/275051.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXMUz3JeimpNrCHbnb-UVKuhTIX7n76TKGyPruBTQbTA&s=10" group-title="Indian",88. Star Movies
+http://filex.me:8080/live/MAS101A/MAS101AABB/890106.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv1dLIwyh3x3Ymxzio1q38Ku54g1ztXZF0Lo5hhf5T-A&s=10" group-title="Indian",89. STAR MOVIE SELECT
+http://filex.me:8080/live/MAS101A/MAS101AABB/275054.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb5fVosn-9XuUrgtiMWc4EA6Gh9AtcZkPWeQ&s" group-title="Indian",90. Sony Entertainment
+http://webhop.xyz:80/live/tarangjisgpr/sonuiptv/34155.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_YYyOFzkk66AqfO1E_h5QnYylOw0KCHPqDg&s" group-title="Indian",91. Sony Entertainment HD
+http://filex.me:8080/live/MAS101A/MAS101AABB/15.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwXIJabdmA0AejX7Se9CGtsG4o5b8ytwpYzw&s" group-title="Indian",92. Sony Max
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/608486.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaes6Wpk0KL3XDYPp117AnBdFaQtVBmS3n-g&s" group-title="Indian",93. Sony Max HD
+http://filex.me:8080/live/MAS101A/MAS101AABB/275045.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Sony_SAB_Logo_%282022%29.png" group-title="Indian",94. Sony Sab Hd
+http://filex.me:8080/live/MAS101A/MAS101AABB/25.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdrV9t60AA3Oje9LPtCBW1hLgPXP7bxttS2Q&s" group-title="Indian",95. Sony Pix
+http://filex.me:8080/live/MAS101A/MAS101AABB/75.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Colors_TV_logo.svg/1200px-Colors_TV_logo.svg.png" group-title="Indian",96. Colors HD
+http://filex.me:8080/live/MAS101A/MAS101AABB/19.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Colors-cineplex.png" group-title="Indian",97. Colors Cineplex
+http://starshare.cx/live/PeH5kPWFfG/infamous7funny/9378.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiUB2P3Qe2aRHs333a_cbcySctfr4QiQrnG-GRfySI7w&s=10" group-title="Indian",98. Colors Cineplex Superhit
+http://starshare.cx/live/PeH5kPWFfG/infamous7funny/172368.ts
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Cineplex_Bollywood.png" group-title="Indian",99. Colors Cineplex Bollywood
+http://starshare.cx/live/PeH5kPWFfG/infamous7funny/37074.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPHKyWBGVdwS9WcYFlFIlJpocvg0t1TdHVWg&s" group-title="Indian",100. Colors INFINITY
+http://starshare.cx/live/PeH5kPWFfG/infamous7funny/9390.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Zee_TV_Logo_2017.svg" group-title="Indian",101. Zee Tv
+http://filex.me:8080/live/MAS101A/MAS101AABB/275034.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd-dWPg9hDRQb0VlRBFo45p1dD_tyhOsHPkE7I44NdUP4dzuS0QC7AN5Zi&s=10" group-title="Indian",102. Zee Cinema
+http://filex.me:8080/live/MAS101A/MAS101AABB/499668.ts
+#EXTINF:-1 tvg-logo="https://astromedia.com.my/wp-content/uploads/2023/12/z-cinema.png" group-title="Indian",103. Zee Cinema HD
+http://filex.me:8080/live/MAS101A/MAS101AABB/275058.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Zee_Bollywood_2025.svg" group-title="Indian",104. Zee Bollywood
+http://filex.me:8080/live/MAS101A/MAS101AABB/275059.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgiIlS3bX_4sShYXGWhcA8kyeode7BXOKukw&s" group-title="Indian",105. & Tv
+http://filex.me:8080/live/MAS101A/MAS101AABB/275040.ts
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/45/1/pictures-hd-logo-png_seeklogo-457044.png" group-title="Indian",106. & Picture
+http://filex.me:8080/live/MAS101A/MAS101AABB/275042.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdHXALK-FokPDYFRa0MsrO5pqjVgTAnUrycg&s" group-title="Indian",107. & XPLOR
+http://starshare.cx/live/PeH5kPWFfG/infamous7funny/20648.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/%26priv%C3%A9_HD.svg/1200px-%26priv%C3%A9_HD.svg.png" group-title="Indian",108. & PRIVE
+http://filex.me:8080/live/MAS101A/MAS101AABB/53043.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgMYJbGzLtJy7dwjX8ciPjveSnCsatFCEjurzdUGiACIyZBrSogSkitCgB&s=10" group-title="Indian",109. & FLIX 
+http://filex.me:8080/live/MAS101A/MAS101AABB/55.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFUG6XWnrsaSlHZlEheqx_2tgE3IA1RLchvyswApHc1A&s=10" group-title="Pakistani",110. Geo HD 
+http://filex.me:8080/live/MAS101A/MAS101AABB/246595.ts
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lt2jwFpTYjusceAsLlIE0B312SEUb4A4Du-rbN8n_STCg=s900-c-k-c0x00ffffff-no-rj" group-title="Pakistani",111. Geo Kahani
+http://filex.me:8080/live/MAS101A/MAS101AABB/110052.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEgsoFUv5LuD0oBA8YhmQXlmFHBrLF22lbwQ&s" group-title="Pakistani",112. Ary Digital
+http://local.denver1769.fun/D2h/Server4/index.m3u8?id=a030
+#EXTINF:-1 tvg-logo="https://cdn.aptoide.com/imgs/3/3/3/333721437245ccc832fb7b906272d47f_icon.png" group-title="Pakistani",113. ARY Zindagi http://local.denver1769.fun/D2h/Server4/index.m3u8?id=a031
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSXyDEIq4gg3ljhT0Mw4MlJUOirUea63Q64Q&s" group-title="Pakistani",114. PTV Home
+http://local.denver1769.fun/D2h/Server4/index.m3u8?id=a04r
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1qIxrgiAwxaFRKYBumlNVbzoGV69oiqGaK4CUf4OgEWGcvJDcDStC2Xk&s=10" group-title="Pakistani",115. PTV World
+http://local.denver1769.fun/D2h/Server4/index.m3u8?id=a04t
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk-giiZ7zmYyH8uwllMW2oGEHo6X83ZGkNtqu78qdPUw&s=10" group-title="Pakistani",116. PTV National
+http://filex.me:8080/live/MAS101A/MAS101AABB/246619.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ625VZhE0NPB6E7UJjK93hPGlTPnmoisRePA&s" group-title="Pakistani",117. Hum HD 
+http://local.denver1769.fun/D2h/Server4/index.m3u8?id=a06c
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e7/Hum_Sitaray_Logo.png" group-title="Pakistani",118. HUM Sitaray
+http://filex.me:8080/live/MAS101A/MAS101AABB/110058.ts
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/IA0stCTLJn0FZRYYEzin68yIwzZ9zwYfxz9V5MX0hES3FWjUftiIAY4GWPOKcn83w0basU72=s900-c-k-c0x00ffffff-no-rj" group-title="Pakistani",119. HUM Masala
+http://filex.me:8080/live/MAS101A/MAS101AABB/246597.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBeLFOpP7m1Qt9B7bBYabe-a6IIAMXLHic7xMPFzsN-kERk6_1CCeFH1o&s=10" group-title="Pakistani",120. HUM Pashto
+http://filex.me:8080/live/MAS101A/MAS101AABB/246602.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGPnNdEz0yndjBedRVyeG1KPB-Y0YZ7kB1ZQ&s" group-title="Pakistani",121. Bol Entertainment
+http://filex.me:8080/live/MAS101A/MAS101AABB/246591.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX1aifeIuGAhD5AxtQD3up14ewVY0qbXD1SQ&s" group-title="Pakistani",122. Green TV
+http://filex.me:8080/live/MAS101A/MAS101AABB/110094.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNnEw-fCdgY3QisSbCtOnQ1Aa0FgY8QY2ryg&s" group-title="Pakistani",123. AAN TV
+http://filex.me:8080/live/MAS101A/MAS101AABB/246584.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgTyeJoXsm9WjjtnKrqfzsCr4XxfPtVPNlW-rKUvMWBGTAWTnehP0CN3Q&s=10" group-title="Pakistani",124. Mun tv
+http://filex.me:8080/live/MAS101A/MAS101AABB/110079.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1ctk6EQgOWqQxQpFgRjpH4DRQEWIu9foywKZ_ErEEdNXkn0-uX6nonfo&s=10" group-title="Pakistani",125. Express Entertainment
+http://filex.me:8080/live/MAS101A/MAS101AABB/110047.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT90hr2UNde0ol_w3mEnT1JLKJbyCFxf7l1b8Mlf0_sOoQv_lC5sTtpIDBe&s=10" group-title="Pakistani",126. AAJ Entertainment
+http://filex.me:8080/live/MAS101A/MAS101AABB/246586.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLclf78xIZSnAt_iLdL2WjbPuL3MGZKwIdlYHDio0PeRzVUE1FfM7JYE1s&s=10" group-title="Pakistani",127. A-Plus
+http://filex.me:8080/live/MAS101A/MAS101AABB/246587.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR9lhvVzCBMk9vkKuohhYDQ9EcCO1w40mWq1mATuOIng&s=10" group-title="Pakistani",128. AUR LIVE
+http://filex.me:8080/live/MAS101A/MAS101AABB/110091.ts
+#EXTINF:-1 tvg-logo="https://khybernetwork.com/wp-content/uploads/2025/01/khyebr-tv-Logo.png" group-title="Pakistani",129. Khyber TV
+http://filex.me:8080/live/MAS101A/MAS101AABB/246600.ts
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/shutterstock/photos/634359707/display_1500/stock-photo-pakistani-music-earphones-means-pakistan-songs-d-illustration-634359707.jpg" group-title="Pakistani",130. Pakistani Music
+http://filex.me:8080/live/MAS101A/MAS101AABB/507602.ts
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/shutterstock/photos/634359707/display_1500/stock-photo-pakistani-music-earphones-means-pakistan-songs-d-illustration-634359707.jpg" group-title="Pakistani",131. Pakistani Music 2
+http://filex.me:8080/live/MAS101A/MAS101AABB/507624.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN0p6z3kOBR2kgTOT4gUeXniJri0QlaRyu8g&s" group-title="Pakistani",132. ATV
+http://filex.me:8080/live/MAS101A/MAS101AABB/246625.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP7SFiBGzqgCoBya7HWDF-_BW6rjXY2Ezcag&s" group-title="Pakistani",133. KAY TV 2
+http://filex.me:8080/live/MAS101A/MAS101AABB/246599.ts
