@@ -270,3 +270,30 @@ http://filex.me:8080/live/MAS101A/MAS101AABB/507624.ts
 http://filex.me:8080/live/MAS101A/MAS101AABB/246625.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP7SFiBGzqgCoBya7HWDF-_BW6rjXY2Ezcag&s" group-title="Pakistani",133. KAY TV 2
 http://filex.me:8080/live/MAS101A/MAS101AABB/246599.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQ6m3i2wwAAU7AgAlLKGCj3C832HfExtkQNQ&s" group-title="Music",134. 8xm
+http://filex.me:8080/live/MAS101A/MAS101AABB/501194.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROnlnIAgiU5F2wk49AFRxfGNjOGJnT-lyuNQ&s" group-title="Music",135. MTV
+http://filex.me:8080/live/MAS101A/MAS101AABB/246680.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8S3yMwJ-EeXTdaBz8tqtKfJuRLev2lAXUHA&s" group-title="Music",136. 9XM
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/23886666-8fc5-470f-aab1-bd637ed607b1/3.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmABKafE2PhUdlcfQ1YOEdbXJyS0DHxhYoL9qKeoTcWlICUpabHA-dIQMg&s=10" group-title="Music",137. 9X Jalwa
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/9xjalwain.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDjDDelAkqHVKQq8CX6YHocgQAJ1fhjhOKbRY5BK_tLK8ICIGHMosyKe0&s=10" group-title="Music",138. 9X TASHAN
+https://wiselp.wiseplayout.com/9X_Tashan/master.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8Ig8L1FCsNSeETxfWYiYWdc8g8AMqdN1f6GysWfjAQA&s=10" group-title="Music",139. T Series
+https://live20.bozztv.com/giatvplayout7/giatv-210427/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4wbc3GfHRWlpDH7iJ5pvU4PgT8M6bvDQP_g&s" group-title="Music",140. Mtv 
+http://filex.me:8080/live/MAS101A/MAS101AABB/499695.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy56zR2q3CheAOqbJEziVTxRM7Ls-gwsEFJg&s" group-title="Music",141. Bollywood Music
+http://filex.me:8080/live/MAS101A/MAS101AABB/507347.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVv4W8vUZYWP-CbojHbEgJzST2qclgnq6V06LV6BVvALbQiRlJUDb1PLoL&s=10" group-title="Music",142. Music India
+https://cdn-2.pishow.tv/live/226/master.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqen18XP6Ti8C3Qih9T0GeyGg3wgis8HA6DA&usqp=CAU" group-title="Music",143. Hindi Hits HD
+http://146.59.253.52:8080/hindihitshd/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe3zIqeXQJRhZfO7fv-1qIOSHpxy6dv--mt6r4TQambyz0YwsXFeovByBn&s=10" group-title="Music",144. Zing
+http://filex.me:8080/live/MAS101A/MAS101AABB/497389.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvnUCm5bHOKpt-edO3Nm-iHbKTcSNlX7rvoA&s" group-title="Music",145. B4U Music
+https://cdnb4u.wiseplayout.com/B4U_Music/master.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaQQuq2f--auj-lWFdu0by60lG5q2Oy4a4Ow&s" group-title="Music",146. YRF Music
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/yrf-music/master.m3u8
