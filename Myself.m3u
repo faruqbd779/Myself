@@ -568,3 +568,24 @@ http://filex.me:8080/live/MAS101A/MAS101AABB/246973.ts
 http://filex.me:8080/live/MAS101A/MAS101AABB/52035.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCHwN3BHIxT2GaylINutmjk1nNKjy69T3lhA&s" group-title="Pakistani News",277. Samaa NEWS
 http://filex.me:8080/live/MAS101A/MAS101AABB/52045.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8eK9F2NZCH21uaMVEH8PELe8HYQr3HbgDaw&s" group-title="Indian News",278. Aap Ki Adalat
+https://amg01550-indiatv-indiatv-aapkiadalat-mi-xiaomi-n5tuk.amagi.tv/playlist/amg01550-indiatv-indiatv-aapkiadalat-mi-xiaomi/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjfgH7fFfBMA7y-VAkpQR3QfDL7Ctwyp5CH2FEd8sbs2B3b41b7PHAq1qg&s=10" group-title="Indian News",279. ABP News
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/abp-news/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/CNN-News18_logo.png" group-title="Indian News",280. CNN News 18
+https://n18syndication.akamaized.net/bpk-tv/CNN_News18_NW18_MOB/output01/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReKhYWOASlrPJggh6fEXn8yGzFFh1_uHvnYSfGudn3spbdSNT3OxM8RQCP&s=10" group-title="Indian News",281. India Today
+https://d2lk5u59tns74c.cloudfront.net/out/v1/d4435039c7d1433d9b9d0b6cdc9dd4ff/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB17AF_miOKoFqEnzWGJn2VUG0muqR82TGuQ&s" group-title="Indian News",282. Kolkata Tv
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kolkata-tv/index.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/0pVAsTdgTX-iREI9xZUMsYbqjpclujOiC7mocZIvLlWYVmhKRP131kzwVzM-i63lQz2YMMXo=s900-c-k-c0x00ffffff-no-rj" group-title="Indian News",283. News 18 Bangla
+https://amg01448-samsungin-news18bangla-samsungin-ad-qy.amagi.tv/ts-eu-w1-n2/playlist/amg01448-samsungin-news18bangla-samsungin/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR_9A5prhS75Gz35re3YjaeLYx9Vo26Q7EnQ&s" group-title="Indian News",284. NDTV English
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678-b/ndtv24x7/master.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhebOy0Gxsi7sWYa1gvytOEmBFfSJKHO1wOg&s" group-title="Indian News",285. NDTV Hindi
+https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7JjsrHj8AgQWFAO_PbRHME9uBQfNfYhEXtQ&s" group-title="Indian News",286. tV9
+https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8mqdlk254n_KdqSN1fTHoiqevIclLqa-Lew&s" group-title="Indian News",287. Aaj Tak
+https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_404p/chunks.m3u8
