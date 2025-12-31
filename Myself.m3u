@@ -165,6 +165,8 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPTEGf69BSw7L9artVP5r-01mkqL9Eo6wS7yW-Js_6CRZQ-MTLRBgP9MSW&s=10" group-title="Bangladeshi",81. SRK TV
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHrN8exY9v4YjbeUMG5CUDrHbmOYgYUlsWuQ&s" group-title="Indian",82. Shemaroo TV
+http://filex.me:8080/live/MAS101A/MAS101AABB/497362.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f3/StarPlus_HD_2011.png/revision/latest/scale-to-width-down/250?cb=20240318193605" group-title="Indian",83. Star Plus HD
 http://filex.me:8080/live/MAS101A/MAS101AABB/17.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/55/Star_Gold_2020.svg" group-title="Indian",84. Star Gold 
