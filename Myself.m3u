@@ -162,8 +162,7 @@ https://app.ncare.live/live-orgin/jagonews24.stream/playlist.m3u8
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ntvuk00332211.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf65Z-NB7hacc-dqCoBcvc9V2HjX0Am7EnA--4TtQY9esacTIC_anTSwM&s=10" group-title="Bangladeshi",80. ATN Bangla UK
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbanglauk-off.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPTEGf69BSw7L9artVP5r-01mkqL9Eo6wS7yW-Js_6CRZQ-MTLRBgP9MSW&s=10"
-group-title="Bangladeshi",81. SRK TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPTEGf69BSw7L9artVP5r-01mkqL9Eo6wS7yW-Js_6CRZQ-MTLRBgP9MSW&s=10" group-title="Bangladeshi",81. SRK TV
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f3/StarPlus_HD_2011.png/revision/latest/scale-to-width-down/250?cb=20240318193605" group-title="Indian",83. Star Plus HD
@@ -227,7 +226,8 @@ http://filex.me:8080/live/MAS101A/MAS101AABB/246595.ts
 http://filex.me:8080/live/MAS101A/MAS101AABB/110052.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEgsoFUv5LuD0oBA8YhmQXlmFHBrLF22lbwQ&s" group-title="Pakistani",112. Ary Digital
 http://local.denver1769.fun/D2h/Server4/index.m3u8?id=a030
-#EXTINF:-1 tvg-logo="https://cdn.aptoide.com/imgs/3/3/3/333721437245ccc832fb7b906272d47f_icon.png" group-title="Pakistani",113. ARY Zindagi http://local.denver1769.fun/D2h/Server4/index.m3u8?id=a031
+#EXTINF:-1 tvg-logo="https://cdn.aptoide.com/imgs/3/3/3/333721437245ccc832fb7b906272d47f_icon.png" group-title="Pakistani",113. ARY Zindagi
+http://local.denver1769.fun/D2h/Server4/index.m3u8?id=a031
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSXyDEIq4gg3ljhT0Mw4MlJUOirUea63Q64Q&s" group-title="Pakistani",114. PTV Home
 http://local.denver1769.fun/D2h/Server4/index.m3u8?id=a04r
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1qIxrgiAwxaFRKYBumlNVbzoGV69oiqGaK4CUf4OgEWGcvJDcDStC2Xk&s=10" group-title="Pakistani",115. PTV World
