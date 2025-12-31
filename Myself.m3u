@@ -424,7 +424,7 @@ http://starshare.cx/live/PeH5kPWFfG/infamous7funny/24018.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfL8l57kw6uuwlE6o6NRGLxc_EBk51BV1e_A&s" group-title="Sports",207. Sky Sport News
 http://filex.me:8080/live/MAS101A/MAS101AABB/495256.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPuxzV9m1R78UDq0Jh3zJS7LEPRnYDvWbXMRAG98A2uQ&s=10" group-title="Sports",208. SUPERSPORTS Cricket
-
+http://starshare.cx/live/PeH5kPWFfG/infamous7funny/157939.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrXB2P0vG5Q-_R7RUxpp_maA6SO3P-jkeQpLiIzbmhHQ&s=10" group-title="Sports",209. SUPERSPORTS Football
 http://filex.me:8080/live/MAS101A/MAS101AABB/290354.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOXJjCetDs9zPDXGk2vsKaUoK6QTQ2hoxo6i2sU_Z4jQ&s=10" group-title="Sports",210. SUPERSPORTS Premier League
@@ -451,3 +451,51 @@ http://kstv.us:8080/live/w1yBNTXEb2/0862594724/12554.ts
 http://kstv.us:8080/live/w1yBNTXEb2/0862594724/12553.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaB0izBj2FsvvLKKGQ8B5oVk-Du7rgw1kW6Q&s" group-title="Sports",221. beIN Sports 3
 http://kstv.us:8080/live/w1yBNTXEb2/0862594724/12552.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLqRoPhCNaRa5tyq5eBNX-mlGBZwipRq16caLyVmYobac1ciSrxmjjU5YJ&s=10" group-title="Kids",222. Oggy And The Cockroach 24/7
+https://tplay.live/playlist/kids/oggy-and-the-cockroaches/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjYlEV0Owu3sZ_rylUXg-Gq-D56iUsXbIVdksQLbI4WzseGC6o44ZTt1iA&s=10" group-title="Kids",223. Gopal Bhar 24/7
+https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQlX76q2l_GUgtmX2pTBfNaGM6QBEpcIfYvg&s" group-title="Kids",3
+224. TOM AND Jerry 24/7
+http://filex.me:8080/live/MAS101A/MAS101AABB/508186.ts
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/9a/54/c4/9a54c45f5c9de64ccd95909f8e08a401.jpg" group-title="Kids",225. Mr. Been 24/7
+http://filex.me:8080/live/MAS101A/MAS101AABB/508123.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6SUyRE-Yfi9GXL-gG_vBO_3Q_tZPx4gTuInn_PdCuSQ&s=10" group-title="Kids",226. The Jungle Book
+https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaWcSmWs1FV1RjwX5QGIzZaNUXkhzfO2dZE1oDgp7Lzf0h1qFLSNC-kKrq&s=10" group-title="Kids",227. Baby Shark
+https://newidco-babysharktv-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdTl_TdLdiLBsYprT9-_0zmpU9fPm9C6IFBg&s" group-title="Kids",228. Cartoon Network
+http://66.102.120.18:8000/play/a017
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYj-vc7yltbl-23Hr0SBiiF62hYF7ePaqfaA&s" group-title="Kids",229. Cartoon Network HD+
+http://103.140.254.2:3500/live/1079.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKCo1VzQuFQ8_XVzd41Bq_p_xPFBKdFjAZWw&s" group-title="Kids",230. Pogo
+http://103.140.254.2:3500/live/559.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3JHVeERvjX0q3SMsF9FywUSxWGmVXx0vJKw&s" group-title="Kids",231. Nick Jr
+ http://103.140.254.2:3500/live/544.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Nick_HD_Logo.svg/1200px-Nick_HD_Logo.svg.png" group-title="Kids",232. Nick HD
+http://103.140.254.2:3500/live/1226.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGCFVUrE2_MsA2SHtEL_J2jTnaikWYGKTw2g&s" group-title="Kids",333. Nick
+http://103.140.254.2:3500/live/545.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png" group-title="Kids",334. Discovery Kids
+http://103.140.254.2:3500/live/554.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Sonic_The_Hedgehog.svg" group-title="Kids",235. Sonic
+http://103.140.254.2:3500/live/815.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAiyzkX-3o0jzIFSXdHTjU4oGZkLr_Jis5tw&s" group-title="Kids",336. Kids Zoon
+http://filex.me:8080/live/MAS101A/MAS101AABB/246774.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8magIgYk0TP-gX54gedExlAzUukxKhME-rg&s" group-title="Kids",337.BBC Kids
+https://dmr1h4skdal9h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-msbj6srh7nhug/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQSL5ozxBxJ7NAeQep13PgRFEp7H-lEqc5cdzz344RBg&s" group-title="Kids",238. SuperToons
+https://d3bxvshzgfq6in.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8a0c583l9gryw/feed/samsung/streams/SUPERTOONS_EN/master.m3u8?token=737aa2c3f17862a448f403cd2ac2b5ef1a0c413e1cf080a13a19cea99119221f&ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=GBBD5100001HL
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr4pBj6xMSkO4RWg2YCs9WIqlW6WeBmpUT1A&s" group-title="Kids",239. Tiny POP
+https://amg01753-narrativeentert-tinypop-samsunguk-hvvb7.amagi.tv/ts-eu-w1-n2/playlist/amg01753-narrativeentert-tinypop-samsunguk/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTICJOEzQIdA9q3hWW4GlZgzdxPSu49VasO6g&s" group-title="Kids",240. Kids Pang TV
+https://newidco-kidspangtv-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhY65HI8M-EoRnC2NhrK-RI9wGcP652YjQoA&s" group-title="Kids",241. Disney jr
+http://66.102.120.18:8000/play/a004
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRIKQqGiypcIyen4gViW3BGlBS--X_pkI1tQ&s" group-title="Kids",242. Disney International
+http://66.102.120.18:8000/play/a078
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyYAVyMp03jBfi6AdenM22M6VdK7eznqeK_Q&s" group-title="Kids",243. Disney HD
+http://66.102.120.18:8000/play/a070
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVdseI3PIOJ9ETNmPZfXKq9dpRgY2Z5KjBpahM4CJVtOCp9LkweAsw7Ms&s=10" group-title="Kids",244. Motu Patlo 24/7
+https://cloudfrontnet.vercel.app/tplay/playout/209622/master.m3u8
