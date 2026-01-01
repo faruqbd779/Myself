@@ -592,7 +592,8 @@ https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_404
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWnMkH9iO1MosKoMIMVQ-m6QN7q7Xj-VfKtA&s" group-title="Information",288. National Geographic
 http://66.102.120.18:8000/play/a01f/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZlVKPoZSIEhlGX-o3vcJ6ctBTg5f6swAWIA&s" group-title="Information",289. Nat Geo Wild 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZlVKPoZSIEhlGX-o3vcJ6ctBTg5f6swAWIA&s" group-title="Information",289. Nat Geo Wild
+http://kstv.us:8080/live/w1yBNTXEb2/0862594724/23285.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSfDr_asm-pFc7gjSLevHeIoalpU-sOs6LdA&s" group-title="Information",290. CGTN Documentary
 https://0472.org/hls/cgtnd.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyBXC5vWn9_-y_iuA_QfDpiGycdat04YlBfWQA1Ckf0mSmVdsK_WXni3w7&s=10" group-title="Information",291. Wild Nature
