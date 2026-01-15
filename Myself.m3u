@@ -132,18 +132,20 @@ https://vods2.aynascope.net/gseriesDrama/index.m3u8
 https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/79/Ba-logo.png/revision/latest?cb=20220419153100" group-title="Islamic",62. Peace TV Bangla
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/peacetvban.stream/playlist.m3u8
+https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
+https://aynaott.unosottor.workers.dev/bpk-tv/peacetvbangla.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5DkKT2j8yBkiUOM3ln7PmYnEN0KE6e3k6TlpXMgFJilJXXgbb3FSlMyAW&s=10" group-title="Islamic",63. ISLAM BANGLA
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/islamchbangla.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScjEIUL-bGCWG9yQzyYX0vYbGTplIu-n8tyIf-NKbLROP7zSLGqzF61-w&s=10" group-title="Islamic",64. Mizanur Rahman Azhari
 https://cloudfrontnet.vercel.app/tplay/playout/209617/master.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmCvenZQFjpi-1EKjVHVSsUa2DV5ha9rBndD_T5-eO7z8FyMfKhuRNXgm-&s=10" group-title="Islamic",65. Eman Channel
-https://tvsen6.aynaott.com/eman/index.m3u8
+https://aynaott.unosottor.workers.dev/bpk-tv/eman.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrIJAtiLy1wnytCCMl2fpL6P7y6MV-Fs1gGcxPdqhlLw&s" group-title="Islamic",66. Peace TV
-https://tvsen5.aynaott.com/peacetv/index.m3u8
+https://aynaott.unosottor.workers.dev/bpk-tv/peacetv.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQenGwyAhGMadGZ-I-RJYVx0AvDOv2ngCFPq11TYTk_5cwrriZekaKT-uY&s=10" group-title="Islamic",67. Peace TV Urdu
-https://tvsen6.aynaott.com/PeaceTVUrduHD/index.m3u8
+https://aynaott.unosottor.workers.dev/bpk-tv/PeaceTVUrduHD.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB6_Ac9BF8XU_jANBb3TOb0mJ-BqJTdfQ6K5QMy_95TFDYHdTeRawqYlE&s=10" group-title="Islamic",68. TAQBEER
-https://tvsen7.aynaott.com/takbeer/index.m3u8
+https://aynaott.unosottor.workers.dev/bpk-tv/takbeer.m3u8
 #EXTINF:-1 tvg-logo="https://medianet.mv/media/channel/256x0-icon.png" group-title="Islamic",69. Saudi Quran TV 
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/makkah.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwEtWaNikuQA1IWK3Oy9nYIuwE9TQh_jAGHdxQQzyrpA&s" group-title="Islamic",70. Makkah Tv
