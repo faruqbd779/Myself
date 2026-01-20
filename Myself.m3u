@@ -670,3 +670,54 @@ https://allottplay.com/tv/toffee/live.php?id=sonybbc_earth_hd&e=.m3u8
 http://119.152.240.15:8000/play/a0bj/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Discover_Pakistan_Logo.png/1200px-Discover_Pakistan_Logo.png" group-title="Information",311. Discover Pakistan TV
 https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEroPojs80_mXalqoYE3RbDKQ0WowG9hrXkFvRGjmjMOnrrNawcUv-ELo&s=10" group-title="24/7 Channel",312. 24/7 Hindi Movies
+https://cloudfrontnet.vercel.app/tplay/playout/209612/master.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEroPojs80_mXalqoYE3RbDKQ0WowG9hrXkFvRGjmjMOnrrNawcUv-ELo&s=10" group-title="24/7 Channel",313. 24/7 Bangla Movies
+https://cloudfrontnet.vercel.app/tplay/playout/209627/master.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEroPojs80_mXalqoYE3RbDKQ0WowG9hrXkFvRGjmjMOnrrNawcUv-ELo&s=10" group-title="24/7 Channel",314. 24/7 Dubbed Movies
+https://cloudfrontnet.vercel.app/tplay/playout/209593/master.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuNTJi6RGQY5kZ5vSPQoq__051oh6PBW5tgKnL4cnZS4jrCRxW8mtNT3M5&s=10" group-title="24/7 Channel",315. 24/7 Bangla Waz
+https://cloudfrontnet.vercel.app/tplay/playout/209617/master.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiP5uozLeyDuvNe3IPB5TnBW5CfWvHdMyd0w&s" group-title="24/7 Channel",316. 24/7 Bantul The Great
+https://cloudfrontnet.vercel.app/tplay/playout/209869/master.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjYlEV0Owu3sZ_rylUXg-Gq-D56iUsXbIVdksQLbI4WzseGC6o44ZTt1iA&s=10" group-title="24/7 Channel",317. 24/7 Gopal Bhar
+https://cloudfrontnet.vercel.app/tplay/playout/209611/master.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJRIBLASPCpi1K7NXSXPyLLfN_i0NFW-fWfriQVuyne3Kj1NpG7c3lXELV&s=10" group-title="24/7 Channel",318. 24/7 Motu Patlu
+https://cloudfrontnet.vercel.app/tplay/playout/209622/master.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYhzKegjLxg8jrEFZcHuzyHuPKKKL4EfrMSQ&s" group-title="24/7 Channel",319. 24/7 Shinchan
+https://cloudfrontnet.vercel.app/tplay/playout/209901/master.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXH1Ku4mnziJ6r0mVMLS2HmSNfgrj_lNNo4Q&s" group-title="24/7 Channel",320. 24/7 Doraemon
+https://cloudfrontnet.vercel.app/tplay/playout/209902/master.m3u8
+#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-000873653107-szee81-t1080x1080.jpg" group-title="24/7 Channel",321. 24/7 Hindi Songs
+https://cloudfrontnet.vercel.app/tplay/playout/209592/master.m3u8
+#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-000873653107-szee81-t1080x1080.jpg" group-title="24/7 Channel",322. 24/7 Bangla Songs
+https://cloudfrontnet.vercel.app/tplay/playout/209587/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Indian_Idol.png" group-title="24/7 Channel",323. 24/7 Indian Idol 
+http://opplex.rw/live/7414279085/abc7414279/344483.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDIt9VOxSak-pUrTwQmxyGvwqAfksppORz8LzOzqrE0dvO1JNZqq2xoWIY&s=10" group-title="24/7 Channel",324. 24/7 The Kapil Sharma Show
+http://opplex.rw/live/7414279085/abc7414279/342075.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDIt9VOxSak-pUrTwQmxyGvwqAfksppORz8LzOzqrE0dvO1JNZqq2xoWIY&s=10" group-title="24/7 Channel",325. 24/7 The Kapil Sharma Show Best Moments
+http://opplex.rw/live/7414279085/abc7414279/384084.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdIDDrT4Ui_hIwL0iCuJABaBZI05XKX8TrYw&s" group-title="24/7 Channel",326. 24/7 CID
+http://opplex.rw/live/7414279085/abc7414279/378909.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_2fug9dp45T-TcWMtwWpKAopTOmlXfLA0Kw&s" group-title="24/7 Channel",327. 24/7 CRIME PATROL
+http://opplex.rw/live/7414279085/abc7414279/340876.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYusqYCSRwOjYPwy1rDyY-x6iiDQOC_CKXuU-pXwgZMNVHDTl3Dgjk4do&s=10" group-title="24/7 Channel",328. 24/7 Super Dancer
+http://opplex.rw/live/7414279085/abc7414279/344486.ts
+#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-000873653107-szee81-t1080x1080.jpg" group-title="24/7 Channel",329. 24/7 Hindi Old Song
+http://opplex.rw/live/7414279085/abc7414279/362868.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEroPojs80_mXalqoYE3RbDKQ0WowG9hrXkFvRGjmjMOnrrNawcUv-ELo&s=10" group-title="24/7 Channel",330. 24/7 Pakistani Movie
+http://opplex.rw/live/7414279085/abc7414279/251695.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEroPojs80_mXalqoYE3RbDKQ0WowG9hrXkFvRGjmjMOnrrNawcUv-ELo&s=10" group-title="24/7 Channel",331. 24/7 Pakistani Movie 
+http://opplex.rw/live/7414279085/abc7414279/251718.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJgYwXBPnYl8hicGhaJHb2OvspeTzZRfQuyw&s" group-title="24/7 Channel",332. 24/7 Jeeto Pakistan League
+http://opplex.rw/live/7414279085/abc7414279/376304.ts
+#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-000873653107-szee81-t1080x1080.jpg" group-title="24/7 Channel",333. 24/7 Music Nusrat Fateh ALI KHAN
+http://filex.me:8080/live/MAS101A/MAS101AABB/507622.ts
+#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-000873653107-szee81-t1080x1080.jpg" group-title="24/7 Channel",334. 24/7 Music Rahat Fateh ALI KHAN
+http://filex.me:8080/live/MAS101A/MAS101AABB/507624.ts
+#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-000873653107-szee81-t1080x1080.jpg" group-title="24/7 Channel",335. 24/7 Music Atif Aslam 
+http://filex.me:8080/live/MAS101A/MAS101AABB/507602.ts
+#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-000873653107-szee81-t1080x1080.jpg" group-title="24/7 Channel",336. 24/7 Music Adnan Sami
+http://filex.me:8080/live/MAS101A/MAS101AABB/507347.ts
