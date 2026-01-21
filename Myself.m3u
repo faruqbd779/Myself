@@ -89,8 +89,8 @@ https://aynaott.unosottor.workers.dev/bpk-tv/globaltvhd.m3u8
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/1719375263-56195452.png?v=8.5.9" group-title="Bangladeshi",39. Channel S
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-RbxNPAZSq6nqvsS7QcmeU4yFhT-76jEK2RcDTWY-Mnk9LOkt3lgoAz8&s=10" group-title="Bangladeshi",40. Channel S UK
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/chsukoff.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/1768894603-9116639.png?v=8.5.11" group-title="Bangladeshi",40. Star News
+http://starter.nvisionbd.net:8080/live/supportM/Personal0@/175336.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f6/Dd_Bangla.PNG" group-title="Indian Bangla",41. DD Bangla
 https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/2e9e32a4-c4f7-49c3-96d6-c4e3660c7e3f/2.m3u8
@@ -128,8 +128,8 @@ https://cdn-1.pishow.tv/live/1456/master.m3u8
 https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmh0wZOxV6uYec7sLYUz7tHFhtKCxhCf4x8SoROlxpdA&s" group-title="Indian Bangla",58. CInemania Bangla
 http://filex.me:8080/live/MAS101A/MAS101AABB/533185.ts
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYWNiNzk4MGItMTZlZi00Mjk1LWEwOTQtOWMyNGVjODEzMzkyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Bangladeshi",59. Coke Studio Bangla
-https://live20.bozztv.com/giatvplayout7/giatv-210733/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRv07HovJX_GJMsUbdkNSfoSu792YF6AteUvw&s" group-title="Bangladeshi",59. Channel S UK
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/chsukoff.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/ce/G-Series_Logo.png" group-title="Bangladeshi",60. G-Series
 https://vods2.aynascope.net/gseriesDrama/index.m3u8
 
