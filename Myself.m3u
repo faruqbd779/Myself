@@ -13,7 +13,6 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/1674014573-65966686.jpg?v=8.5.9" group-title="Bangladeshi",06. Channel i HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/1649745416-10350598.png?v=8.5.9" group-title="Bangladeshi",07. Ekushey Tv
-
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/ntv.png?v=8.5.9" group-title="Bangladeshi",08. NTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
@@ -127,19 +126,20 @@ http://starter.nvisionbd.net:8080/live/supportM/Personal0@/175336.m3u8
 https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/2e9e32a4-c4f7-49c3-96d6-c4e3660c7e3f/2.m3u8
 #EXTINF:-1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/1693477944-85084283.webp?v=8.5.9" group-title="Indian Bangla",42. Star Jalsha
 https://aynaott.unosottor.workers.dev/bpk-tv/star.m3u8
-http://filex.me:8080/live/MAS101A/MAS101AABB/522665.ts
+http://starshare.st:8080/live/JONGILE@20870pat/PAT0002026/23218.ts
 #EXTINF:-1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/1750067959-21698999.png?v=8.5.9" group-title="Indian Bangla",43. Zee Bangla
 https://aynaott.unosottor.workers.dev/bpk-tv/zeebangla.m3u8
-http://filex.me:8080/live/MAS101A/MAS101AABB/520265.ts
+http://starshare.st:8080/live/JONGILE@20870pat/PAT0002026/23305.ts
 #EXTINF:-1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/colorsbangla.png?v=8.5.9" group-title="Indian Bangla",44. Colors Bangla
-
-http://filex.me:8080/live/MAS101A/MAS101AABB/522653.ts
+https://tvsen3.aynaott.com/u3LkNQ7UHhFX/index.m3u8
+http://starshare.st:8080/live/JONGILE@20870pat/PAT0002026/23218.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbtB4VB_BehNXK2wMpW32w67ajkgHIgi41UQ&s" group-title="Indian Bangla",45. Sun Bangla
 http://starshare.cx/live/PeH5kPWFfG/infamous7funny/3753.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKM0rp0Vin41yZQYD7wiYPJUm-9fKXt9wgug&s" group-title="Indian Bangla",46. Enter 10 Bangla
 https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/1666684545-72479469.png?v=8.5.9" group-title="Indian Bangla",47. Sony Aath
 http://filex.me:8080/live/MAS101A/MAS101AABB/499642.ts
+http://starshare.st:8080/live/JONGILE@20870pat/PAT0002026/4083.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI71hNlyqhkGfSnVJdGvMGZ-1gQf4zM3StKA-DbZyjKA&s=10" group-title="Indian Bangla",48. Akash Aath
 https://tvsen1.aynaott.com/Wm9Lv2RjZGT6/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3Oa1renOddAO4QjMvxzdsANvEpLnSuzD46g&s" group-title="Indian Bangla",49. Ruposhi Bangla
@@ -148,10 +148,12 @@ https://cdn-4.pishow.tv/live/1039/master.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/tara-tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/jalshamovies.png?v=8.5.9" group-title="Indian Bangla",51. Jalsha Movie
 http://starshare.cx/live/PeH5kPWFfG/infamous7funny/425.ts
+http://starshare.st:8080/live/JONGILE@20870pat/PAT0002026/425.ts
 #EXTINF:-1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/1756967258-78943148.png?v=8.5.9" group-title="Indian Bangla",52. Zee Bangla Cinema
 http://starshare.cx/live/PeH5kPWFfG/infamous7funny/49615.ts
+http://starshare.st:8080/live/JONGILE@20870pat/PAT0002026/49615.ts
 #EXTINF:-1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/1716889747-88330695.png?v=8.5.9" group-title="Indian Bangla",53. Colors Bangla Cinema
-http://filex.me:8080/live/MAS101A/MAS101AABB/520267.ts
+http://starter.nvisionbd.net:8080/live/supportM/Personal0@/454.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz8_XKoGc7ts0rBnQNnEjvtjox5BefdCwSbRXi3kRsPScpMUUAFUnvAd4&s=10" group-title="Indian Bangla",54. Tara Bangla Cinema
 http://103.145.48.150:90/laosat24/taratv/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/1681372059-79623485.png?v=8.5.9" group-title="Indian Bangla",55. Sangeet Bangla
