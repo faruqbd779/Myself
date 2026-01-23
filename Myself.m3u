@@ -13,19 +13,23 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/1674014573-65966686.jpg?v=8.5.9" group-title="Bangladeshi",06. Channel i HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/1649745416-10350598.png?v=8.5.9" group-title="Bangladeshi",07. Ekushey Tv
+
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/ntv.png?v=8.5.9" group-title="Bangladeshi",08. NTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/1674105604-17294778.png?v=8.5.9" group-title="Bangladeshi",09. RTV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/rtv-sg.stream/playlist.m3u8
+https://aynaott.unosottor.workers.dev/bpk-tv/rtv.m3u8
 http://starshare.st:8080/live/JONGILE@20870pat/PAT0002026/401.ts
 #EXTINF:-1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/boishakhitv.png?v=8.5.9" group-title="Bangladeshi",10. Boishakhi Tv
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/boishakhitv-org.stream/tracks-v1a1/mono.m3u8
+https://aynaott.unosottor.workers.dev/bpk-tv/Boishakhi.m3u8
 http://starshare.st:8080/live/JONGILE@20870pat/PAT0002026/390.ts
 #EXTINF:-1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/1674014988-44767932.png?v=8.5.9" group-title="Bangladeshi",11. Bangla Vision
 https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/1674014958-5698961.jpg?v=8.5.9" group-title="Bangladeshi",12. Desh Tv
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/deshtv.stream/tracks-v1a1/mono.m3u8
+https://aynaott.unosottor.workers.dev/bpk-tv/desh.m3u8
 http://starshare.st:8080/live/JONGILE@20870pat/PAT0002026/394.ts
 #EXTINF:-1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/mytv.png?v=8.5.9" group-title="Bangladeshi",13. My Tv
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/mytv-up-off.stream/playlist.m3u8
@@ -38,12 +42,14 @@ https://aynaott.unosottor.workers.dev/bpk-tv/mohonatv.m3u8
 http://opplex.rw/live/7414279085/abc7414279/245920.ts
 #EXTINF:-1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/1674014286-70661521.png?v=8.5.9" group-title="Bangladeshi",16. Bijoy Tv
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/bijoy00.stream/playlist.m3u8
+https://aynaott.unosottor.workers.dev/bpk-tv/bijoy.m3u8
 http://starshare.st:8080/live/JONGILE@20870pat/PAT0002026/408.ts
 #EXTINF:-1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/somoytv.png?v=8.5.9" group-title="Bangladeshi",17. Somoy Tv
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/independent.png?v=8.5.9" group-title="Bangladeshi",18. Independen
 https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/1674015140-65835647.jpg?v=8.5.9" group-title="Bangladeshi",19. Maasranga
+https://aynaott.unosottor.workers.dev/bpk-tv/maasranga.m3u8
 http://103.229.254.25:7001/play/a05q/index.m3u8
 http://starshare.st:8080/live/JONGILE@20870pat/PAT0002026/1036.ts
 #EXTINF:-1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/1674105567-38938482.jpeg?v=8.5.9" group-title="Bangladeshi",20. Channel 9
@@ -53,55 +59,63 @@ http://starshare.st:8080/live/JONGILE@20870pat/PAT0002026/434.ts
 https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/1618746762-26959522.png?v=8.5.9" group-title="Bangladeshi",22. Gazi Tv
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/tracks-v1a1/mono.m3u8
+https://aynaott.unosottor.workers.dev/bpk-tv/gazi.m3u8
 http://103.229.254.25:7001/play/a06t/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/ekattortv.png?v=8.5.9" group-title="Bangladeshi",23. Ekattor Tv
 https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/asiantv.png?v=8.5.9" group-title="Bangladeshi",24. Asian Tv
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/asian-test-sample-ok-d.stream/playlist.m3u8
+https://aynaott.unosottor.workers.dev/bpk-tv/asian.m3u8
 http://starshare.st:8080/live/JONGILE@20870pat/PAT0002026/430.ts
 #EXTINF:-1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/satv.png?v=8.5.9" group-title="Bangladeshi",25. SATV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/satvoff5666.stream/playlist.m3u8
+https://aynaott.unosottor.workers.dev/bpk-tv/satv.m3u8
 http://103.229.254.25:7001/play/a062/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/jamunatv.png?v=8.5.9" group-title="Bangladeshi",26. Jamuna Tv
 https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/deeptotv.png?v=8.5.9" group-title="Bangladeshi",27. Depto Tv
 https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/1711-audio_113412_eng=113200-video=1692000.m3u8
 #EXTINF:-1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/dbc24news.png?v=8.5.9" group-title="Bangladeshi",28. DBC News
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/dbcnews.stream/playlist.m3u8
+https://aynaott.unosottor.workers.dev/bpk-tv/dbc.m3u8
 http://starshare.st:8080/live/JONGILE@20870pat/PAT0002026/420.ts
 #EXTINF:-1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/1674015180-61003768.webp?v=8.5.9" group-title="Bangladeshi",29. News 24
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/news24local.stream/tracks-v1a1/mono.m3u8
+https://aynaott.unosottor.workers.dev/bpk-tv/news24.m3u8
 http://103.229.254.25:7001/play/a06i/index.m3u8
 http://starshare.st:8080/live/JONGILE@20870pat/PAT0002026/3810.ts
 #EXTINF:-1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/banglatv.png?v=8.5.9" group-title="Bangladeshi",30. Bangla Tv
-https://bldcmprod-cdn.toffeelive.com/cdn/live/bangla_tv/playlist.m3u8
+https://aynaott.unosottor.workers.dev/bpk-tv/banglatv.m3u8
 http://starshare.st:8080/live/JONGILE@20870pat/PAT0002026/3803.ts
 #EXTINF:-1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/durantotv.png?v=8.5.9" group-title="Bangladeshi",31. Doronta Tv
+https://aynaott.unosottor.workers.dev/bpk-tv/Duronto.m3u8
 http://103.229.254.25:7001/play/a05k/index.m3u8
 http://starshare.st:8080/live/JONGILE@20870pat/PAT0002026/433.ts
 #EXTINF:-1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/1585734668-98223291.png?v=8.5.9" group-title="Bangladeshi",32. Nagorick Tv
 http://116.204.149.16/nagorik/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/anandatv.png?v=8.5.9" group-title="Bangladeshi",33. Ananda Tv
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/playlist.m3u8
-https://bldcmprod-cdn.toffeelive.com/cdn/live/anandatv/playlist.m3u8
+https://aynaott.unosottor.workers.dev/bpk-tv/Ananda.m3u8
 http://starshare.st:8080/live/JONGILE@20870pat/PAT0002026/399.ts
 #EXTINF:-1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/1605236851-69176036.jpeg?v=8.5.9" group-title="Bangladeshi",34. T Sports
 https://mrgifytv.pages.dev/bpl/tsports/index.m3u8
+https://aynaott.unosottor.workers.dev/bpk-tv/tsports.m3u8
 http://starshare.st:8080/live/JONGILE@20870pat/PAT0002026/52500.ts
 #EXTINF:-1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/1712555532-95755671.png?v=8.5.9" group-title="Bangladeshi",35. Nexus Tv
+https://aynaott.unosottor.workers.dev/bpk-tv/Nexus.m3u8
 http://103.229.254.25:7001/play/a05m/index.m3u8
 http://starshare.st:8080/live/JONGILE@20870pat/PAT0002026/411.ts
 #EXTINF:-1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/1651985369-10396030.png?v=8.5.9" group-title="Bangladeshi",36. Ekhon Tv
-https://bldcmprod-cdn.toffeelive.com/cdn/live/ekhon_tv/playlist.m3u8
+https://aynaott.unosottor.workers.dev/bpk-tv/ekhon.m3u8
 http://103.229.254.25:7001/play/a09k/index.m3u8
 http://starter.nvisionbd.net:8080/live/supportM/Personal0@/386.ts
 #EXTINF:-1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/1674015097-89564682.png?v=8.5.9" group-title="Bangladeshi",37. Global Tv
+https://aynaott.unosottor.workers.dev/bpk-tv/global.m3u8
 http://103.229.254.25:7001/play/a05o/index.m3u8
-http://starter.nvisionbd.net:8080/live/supportM/Personal0@/385.ts
 http://starshare.st:8080/live/JONGILE@20870pat/PAT0002026/4231.ts
 #EXTINF:-1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/1683606878-6994272.png?v=8.5.9" group-title="Bangladeshi",38. Green Tv
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/playlist.m3u8
+https://aynaott.unosottor.workers.dev/bpk-tv/green.m3u8
 #EXTINF:-1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/1719375263-56195452.png?v=8.5.9" group-title="Bangladeshi",39. Channel S
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/tracks-v1a1/mono.m3u8
 http://103.229.254.25:7001/play/a060/index.m3u8
@@ -112,10 +126,13 @@ http://starter.nvisionbd.net:8080/live/supportM/Personal0@/175336.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f6/Dd_Bangla.PNG" group-title="Indian Bangla",41. DD Bangla
 https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/2e9e32a4-c4f7-49c3-96d6-c4e3660c7e3f/2.m3u8
 #EXTINF:-1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/1693477944-85084283.webp?v=8.5.9" group-title="Indian Bangla",42. Star Jalsha
+https://aynaott.unosottor.workers.dev/bpk-tv/star.m3u8
 http://filex.me:8080/live/MAS101A/MAS101AABB/522665.ts
 #EXTINF:-1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/1750067959-21698999.png?v=8.5.9" group-title="Indian Bangla",43. Zee Bangla
+https://aynaott.unosottor.workers.dev/bpk-tv/zeebangla.m3u8
 http://filex.me:8080/live/MAS101A/MAS101AABB/520265.ts
 #EXTINF:-1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/colorsbangla.png?v=8.5.9" group-title="Indian Bangla",44. Colors Bangla
+
 http://filex.me:8080/live/MAS101A/MAS101AABB/522653.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbtB4VB_BehNXK2wMpW32w67ajkgHIgi41UQ&s" group-title="Indian Bangla",45. Sun Bangla
 http://starshare.cx/live/PeH5kPWFfG/infamous7funny/3753.ts
