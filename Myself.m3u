@@ -100,54 +100,46 @@ https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/chsukoff.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/ce/G-Series_Logo.png" group-title="Bangladeshi",44. G-Series
 https://vods2.aynascope.net/gseriesDrama/index.m3u8
+#EXTINF:-1 tvg-logo="
+https://cdnhost.akashbd.net/assets/images/icons/ic_speaker_phone_white.svg?v=10.5.6" group-title="Bangladeshi",45. Rajdhani Tv
+https://stream.shariarsuvo.com/hls6/rajdhaniweb.m3u8
 
+Indian Bangla
+#EXTINF:-1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/1693477944-85084283.webp?v=8.5.9" group-title="Indian Bangla",46. Star Jalsha
+http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHuIkoNYLkAeGEhRhH5SzfaE/m3u8
+#EXTINF:-1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/1750067959-21698999.png?v=8.5.9" group-title="Indian Bangla",47. Zee Bangla
+http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHiLve9iCFH17ZsxyFJZ6W6A/m3u8
+#EXTINF:-1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/colorsbangla.png?v=8.5.9" group-title="Indian Bangla",48. Colors Bangla
+http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHog106eTdeZlUqOfZiGX9NY/m3u8
+https://yupptvcatchupire.yuppcdn.net/preview/colorsbanglahd/800.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbtB4VB_BehNXK2wMpW32w67ajkgHIgi41UQ&s" group-title="Indian Bangla",49. Sun Bangla
+http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHnGf1-640ZKlGJmeX-ck5IM/m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKM0rp0Vin41yZQYD7wiYPJUm-9fKXt9wgug&s" group-title="Indian Bangla",50. Enter 10 Bangla
+https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/1666684545-72479469.png?v=8.5.9" group-title="Indian Bangla",51. Sony Aath
+http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHlBxumBQDxpSbB4cjkzCNPU/m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI71hNlyqhkGfSnVJdGvMGZ-1gQf4zM3StKA-DbZyjKA&s=10" group-title="Indian Bangla",52. Akash Aath
+https://cdn-4.pishow.tv/live/969/969_1.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3Oa1renOddAO4QjMvxzdsANvEpLnSuzD46g&s" group-title="Indian Bangla",53. Ruposhi Bangla
+https://cdn-4.pishow.tv/live/1039/master.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWwUyv4yOvRJxQRRNROFj3e0LVNjDNNi1eE-OPjPeqW2FwSxfcoZSAM1A&s=10" group-title="Indian Bangla",54. Tara Bangla
+https://m3uplay.com/leo/live.m3u8?id=1612&e=.m3u8
+#EXTINF:-1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/jalshamovies.png?v=8.5.9" group-title="Indian Bangla",55. Jalsha Movie
+https://tyr.zibobdixserver.top/hls/JalshaMoviesHD.m3u8
+#EXTINF:-1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/1756967258-78943148.png?v=8.5.9" group-title="Indian Bangla",56. Zee Bangla Cinema
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema/default/manifest.mpd
+#EXTINF:-1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/1716889747-88330695.png?v=8.5.9" group-title="Indian Bangla",57. Colors Bangla Cinema
+https://yupptv.rkdyiptv.workers.dev/live/3492.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz8_XKoGc7ts0rBnQNnEjvtjox5BefdCwSbRXi3kRsPScpMUUAFUnvAd4&s=10" group-title="Indian Bangla",58. Tara Bangla Cinema
+https://in1.sunilprasad.com.np/wodgoLive/tara-bangla-cinema/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/1681372059-79623485.png?v=8.5.9" group-title="Indian Bangla",59. Sangeet Bangla
+https://cdn-4.pishow.tv/live/1143/master.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoAI_bRuy6tglv7ueioavgah7-7l0vprOaKtEzf5Utig&s=10" group-title="Indian Bangla",60. Dhoom Music Bangla
+http://103.180.212.191:3500/live/3006.m3u8
 
 Islamic Tv
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgP17C92aUgfU0W7ELgWfTS1tQKQZ1QB-yDw&s" group-title="Islamic",61. Madani Tv Bangla
-https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/79/Ba-logo.png/revision/latest?cb=20220419153100" group-title="Islamic",62. Peace TV Bangla
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/peacetvban.stream/playlist.m3u8
-https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
-https://aynaott.unosottor.workers.dev/bpk-tv/peacetvbangla.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5DkKT2j8yBkiUOM3ln7PmYnEN0KE6e3k6TlpXMgFJilJXXgbb3FSlMyAW&s=10" group-title="Islamic",63. ISLAM BANGLA
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/islamchbangla.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScjEIUL-bGCWG9yQzyYX0vYbGTplIu-n8tyIf-NKbLROP7zSLGqzF61-w&s=10" group-title="Islamic",64. Mizanur Rahman Azhari
-https://cloudfrontnet.vercel.app/tplay/playout/209617/master.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmCvenZQFjpi-1EKjVHVSsUa2DV5ha9rBndD_T5-eO7z8FyMfKhuRNXgm-&s=10" group-title="Islamic",65. Eman Channel
-https://aynaott.unosottor.workers.dev/bpk-tv/eman.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrIJAtiLy1wnytCCMl2fpL6P7y6MV-Fs1gGcxPdqhlLw&s" group-title="Islamic",66. Peace TV
-https://aynaott.unosottor.workers.dev/bpk-tv/peacetv.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQenGwyAhGMadGZ-I-RJYVx0AvDOv2ngCFPq11TYTk_5cwrriZekaKT-uY&s=10" group-title="Islamic",67. Peace TV Urdu
-https://aynaott.unosottor.workers.dev/bpk-tv/PeaceTVUrduHD.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB6_Ac9BF8XU_jANBb3TOb0mJ-BqJTdfQ6K5QMy_95TFDYHdTeRawqYlE&s=10" group-title="Islamic",68. TAQBEER
-https://aynaott.unosottor.workers.dev/bpk-tv/takbeer.m3u8
-#EXTINF:-1 tvg-logo="https://medianet.mv/media/channel/256x0-icon.png" group-title="Islamic",69. Saudi Quran TV 
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/makkah.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwEtWaNikuQA1IWK3Oy9nYIuwE9TQh_jAGHdxQQzyrpA&s" group-title="Islamic",70. Makkah Tv
-https://media2.streambrothers.com:1936/8122/8122/chunklist_w1247854077.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a7/Saudi_Sunnah_TV_2020.png/revision/latest/scale-to-width-down/250?cb=20241025151812" group-title="Islamic",71. Saudi Sunnah Tv
-http://m.live.net.sa:1935/live/sunnah/chunklist.m3u8?v=1
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm8vHYqGitJkD37ZCvQyBcEUEkA30RkHvp9w&s" group-title="Islamic",72 TV One
-https://app.ncare.live/live-orgin/tvoneuksni.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkmxQsLQOt1W7ReloRs8emzyojrH2Oqw1HtyuJiui-EItvRcABq89OT6k&s=10" group-title="Islamic",73. Iqra Bangla
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/iqrabanglatvoffice.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReRjAxq8--hgCxUZSgB8wyzhF_1MeOzGessSwaL26E3oOmXnboLzsx36gN&s=10" group-title="Islamic",74. Azan TV
-https://dbcanada.sonarbanglatv.com/azantv/atv/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDy1kic6oSwoVCSVwhWwcp3CZxtGfR29tjMQ&s" group-title="Islamic",75. Deen Tv
-https://cd198.anystream.uk:8082/hls/d33ntv/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToNzQsuWjlojNoeVVhG58BaFXLfcbljUisEQ&s" group-title="Islamic",76. Ary QTV
-http://filex.me:8080/live/MAS101A/MAS101AABB/247150.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_IUS9uG78yTE41XP2-1F9CFwIUuVu-DGcoQ&s" group-title="Islamic",77. IBN TV
-http://138.68.138.119:8080/live/5a8993709ea19/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB4A02-ghfBVx3fQLfIrwLd8FsrWK0Y9zLNcL4WCJH03wnNFTTXSUyRN2D&s=10" group-title="Bangladeshi",78. Jago News 24
-https://app.ncare.live/live-orgin/jagonews24.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/f/f9/NTV_UK.png/revision/latest?cb=20230423115748" group-title="Bangladeshi",79. NTV UK
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ntvuk00332211.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf65Z-NB7hacc-dqCoBcvc9V2HjX0Am7EnA--4TtQY9esacTIC_anTSwM&s=10" group-title="Bangladeshi",80. ATN Bangla UK
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbanglauk-off.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPTEGf69BSw7L9artVP5r-01mkqL9Eo6wS7yW-Js_6CRZQ-MTLRBgP9MSW&s=10" group-title="Bangladeshi",81. SRK TV
-https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 
+Indian
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHrN8exY9v4YjbeUMG5CUDrHbmOYgYUlsWuQ&s" group-title="Indian",82. Shemaroo TV
 http://filex.me:8080/live/MAS101A/MAS101AABB/497362.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f3/StarPlus_HD_2011.png/revision/latest/scale-to-width-down/250?cb=20240318193605" group-title="Indian",83. Star Plus HD
